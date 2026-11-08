@@ -18,6 +18,7 @@ I enjoy turning complex requirements into **simple, reliable and maintainable so
 
 - **[PrintRadar](https://printradar.de)** - Compare 3D printing filament prices, discover deals and find bundles across shops.
 - **[openwebprint](https://github.com/Florian-Cullmann/openwebprint)** - Open-source, self-hosted printing and scanning from your browser.
+- **[KidsDaily365](https://github.com/Florian-Cullmann/kidsdaily365)** - A self-hosted family dashboard for children’s daily routines, tasks and rewards, with a shared touch display and Android launcher.
 - **[apply2go](https://apply2go.de)** - AI-assisted job applications, tailored to the role you're applying for.
 - **[ahki](https://ahki.de)** - A focused workspace for clients, projects, tasks, time tracking and budgets.
 - **[fcullmann.com](https://fcullmann.com)** - My personal corner of the internet: projects, experience and writing about software.
